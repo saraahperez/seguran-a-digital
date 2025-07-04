@@ -3,7 +3,7 @@
 :root {
     --branco: white;
     --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
+    --fundo-senha: #467cba;
     --fundo-texto: #001E40;
     --borda: #0075FF;
     --roboto: 'Roboto', sans-serif;
@@ -110,6 +110,6 @@ body {
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
-        flex-direction: row;
+        flex-direction:row;
     }
 }
